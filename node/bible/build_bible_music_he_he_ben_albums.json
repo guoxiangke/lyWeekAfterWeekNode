@@ -1,0 +1,662 @@
+[
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 801,
+		"name": "汉语和合本-音乐版  创世记",
+		"songCount": 50,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 802,
+		"name": "汉语和合本-音乐版  出埃及记",
+		"songCount": 40,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 803,
+		"name": "汉语和合本-音乐版  利未记",
+		"songCount": 27,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 804,
+		"name": "汉语和合本-音乐版  民数记",
+		"songCount": 36,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 805,
+		"name": "汉语和合本-音乐版  申命记",
+		"songCount": 34,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 806,
+		"name": "汉语和合本-音乐版  约书亚记",
+		"songCount": 24,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 807,
+		"name": "汉语和合本-音乐版  士师记",
+		"songCount": 21,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 808,
+		"name": "汉语和合本-音乐版  路得记",
+		"songCount": 4,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 809,
+		"name": "汉语和合本-音乐版  撒母耳记上",
+		"songCount": 31,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 810,
+		"name": "汉语和合本-音乐版  撒母耳记下",
+		"songCount": 24,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 811,
+		"name": "汉语和合本-音乐版  列王记上",
+		"songCount": 22,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 812,
+		"name": "汉语和合本-音乐版  列王记下",
+		"songCount": 25,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 813,
+		"name": "汉语和合本-音乐版  历代志上",
+		"songCount": 29,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 814,
+		"name": "汉语和合本-音乐版  历代志下",
+		"songCount": 36,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 815,
+		"name": "汉语和合本-音乐版  以斯拉记",
+		"songCount": 10,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 816,
+		"name": "汉语和合本-音乐版  尼希米记",
+		"songCount": 13,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 817,
+		"name": "汉语和合本-音乐版  以斯帖记",
+		"songCount": 10,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 818,
+		"name": "汉语和合本-音乐版  约伯记",
+		"songCount": 42,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 819,
+		"name": "汉语和合本-音乐版  诗篇",
+		"songCount": 150,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 820,
+		"name": "汉语和合本-音乐版  箴言",
+		"songCount": 31,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 821,
+		"name": "汉语和合本-音乐版  传道书",
+		"songCount": 12,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 822,
+		"name": "汉语和合本-音乐版  雅歌",
+		"songCount": 8,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 823,
+		"name": "汉语和合本-音乐版  以赛亚书",
+		"songCount": 66,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 824,
+		"name": "汉语和合本-音乐版  耶利米书",
+		"songCount": 52,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 825,
+		"name": "汉语和合本-音乐版  耶利米哀歌",
+		"songCount": 5,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 826,
+		"name": "汉语和合本-音乐版  以西结书",
+		"songCount": 48,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 827,
+		"name": "汉语和合本-音乐版  但以理书",
+		"songCount": 12,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 828,
+		"name": "汉语和合本-音乐版  何西阿书",
+		"songCount": 14,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 829,
+		"name": "汉语和合本-音乐版  约珥书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 830,
+		"name": "汉语和合本-音乐版  阿摩司书",
+		"songCount": 9,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 831,
+		"name": "汉语和合本-音乐版  俄巴底亚书",
+		"songCount": 1,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 832,
+		"name": "汉语和合本-音乐版  约拿书",
+		"songCount": 4,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 833,
+		"name": "汉语和合本-音乐版  弥迦书",
+		"songCount": 7,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 834,
+		"name": "汉语和合本-音乐版  那鸿书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 835,
+		"name": "汉语和合本-音乐版  哈巴谷书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 836,
+		"name": "汉语和合本-音乐版  西番雅书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 837,
+		"name": "汉语和合本-音乐版  哈该书",
+		"songCount": 2,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 838,
+		"name": "汉语和合本-音乐版  撒迦利亚书",
+		"songCount": 14,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 839,
+		"name": "汉语和合本-音乐版  玛拉基书",
+		"songCount": 4,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 840,
+		"name": "汉语和合本-音乐版  马太福音",
+		"songCount": 28,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 841,
+		"name": "汉语和合本-音乐版  马可福音",
+		"songCount": 16,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 842,
+		"name": "汉语和合本-音乐版  路加福音",
+		"songCount": 24,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 843,
+		"name": "汉语和合本-音乐版  约翰福音",
+		"songCount": 21,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 844,
+		"name": "汉语和合本-音乐版  使徒行传",
+		"songCount": 28,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 845,
+		"name": "汉语和合本-音乐版  罗马书",
+		"songCount": 16,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 846,
+		"name": "汉语和合本-音乐版  哥林多前书",
+		"songCount": 16,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 847,
+		"name": "汉语和合本-音乐版  哥林多后书",
+		"songCount": 13,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 848,
+		"name": "汉语和合本-音乐版  加拉太书",
+		"songCount": 6,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 849,
+		"name": "汉语和合本-音乐版  以弗所书",
+		"songCount": 6,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 850,
+		"name": "汉语和合本-音乐版  腓立比书",
+		"songCount": 4,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 851,
+		"name": "汉语和合本-音乐版  歌罗西书",
+		"songCount": 4,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 852,
+		"name": "汉语和合本-音乐版  帖撒罗尼迦前书",
+		"songCount": 5,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 853,
+		"name": "汉语和合本-音乐版  帖撒罗尼迦后书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 854,
+		"name": "汉语和合本-音乐版  提摩太前书",
+		"songCount": 6,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 855,
+		"name": "汉语和合本-音乐版  提摩太后书",
+		"songCount": 4,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 856,
+		"name": "汉语和合本-音乐版  提多书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 857,
+		"name": "汉语和合本-音乐版  腓利门书",
+		"songCount": 1,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 858,
+		"name": "汉语和合本-音乐版  希伯来书",
+		"songCount": 13,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 859,
+		"name": "汉语和合本-音乐版  雅各书",
+		"songCount": 5,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 860,
+		"name": "汉语和合本-音乐版  彼得前书",
+		"songCount": 5,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 861,
+		"name": "汉语和合本-音乐版  彼得后书",
+		"songCount": 3,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 862,
+		"name": "汉语和合本-音乐版  约翰一书",
+		"songCount": 5,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 863,
+		"name": "汉语和合本-音乐版  约翰二书",
+		"songCount": 1,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 864,
+		"name": "汉语和合本-音乐版  约翰三书",
+		"songCount": 1,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 865,
+		"name": "汉语和合本-音乐版  犹大书",
+		"songCount": 1,
+		"albumCategoryId": 503,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 866,
+		"name": "汉语和合本-音乐版  启示录",
+		"songCount": 22,
+		"albumCategoryId": 503,
+		"shortName": ""
+	}
+]

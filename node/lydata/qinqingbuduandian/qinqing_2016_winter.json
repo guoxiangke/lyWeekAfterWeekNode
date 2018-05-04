@@ -1,0 +1,24 @@
+[
+	{
+		"title": "收听      20161003",
+		"path": "http://media.febcchinese.org/streaming/up/up161003.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"albumName": "亲情不断电 2016年冬季合集",
+		"id": 6262000001,
+		"albumId": 6262,
+		"albumtitle": "亲情不断电 2016年冬季合集(1)",
+		"textContent": "[\n\t{\n\t\t\"content\": \"收听     \"\n\t},\n\t{\n\t\t\"content\": \"收听\"\n\t},\n\t{\n\t\t\"content\": \"收听\"\n\t},\n\t{\n\t\t\"content\": \"     \"\n\t}\n]"
+	},
+	{
+		"title": "Babyface整理 20161004",
+		"path": "http://media.febcchinese.org/streaming/up/up161004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"albumName": "亲情不断电 2016年冬季合集",
+		"id": 6262000002,
+		"albumId": 6262,
+		"albumtitle": "亲情不断电 2016年冬季合集(2)",
+		"textContent": "[\n\t{\n\t\t\"content\": \"Babyface整理\"\n\t},\n\t{\n\t\t\"content\": \"收听     \"\n\t},\n\t{\n\t\t\"content\": \"收听\"\n\t},\n\t{\n\t\t\"content\": \"收听\"\n\t},\n\t{\n\t\t\"content\": \"     \"\n\t}\n]"
+	}
+]

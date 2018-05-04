@@ -1,0 +1,622 @@
+[
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170701.mp3",
+		"id": 5100000001,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(1)",
+		"title": "认识你真好-20170701"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170702.mp3",
+		"id": 5100000002,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(2)",
+		"title": "认识你真好-20170702"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170703.mp3",
+		"id": 5100000003,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(3)",
+		"title": "认识你真好-20170703"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170704.mp3",
+		"id": 5100000004,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(4)",
+		"title": "认识你真好-20170704"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170705.mp3",
+		"id": 5100000005,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(5)",
+		"title": "认识你真好-20170705"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170706.mp3",
+		"id": 5100000006,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(6)",
+		"title": "认识你真好-20170706"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170707.mp3",
+		"id": 5100000007,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(7)",
+		"title": "认识你真好-20170707"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170708.mp3",
+		"id": 5100000008,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(8)",
+		"title": "认识你真好-20170708"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170709.mp3",
+		"id": 5100000009,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(9)",
+		"title": "认识你真好-20170709"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170710.mp3",
+		"id": 5100000010,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(10)",
+		"title": "认识你真好-20170710"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170711.mp3",
+		"id": 5100000011,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(11)",
+		"title": "认识你真好-20170711"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170712.mp3",
+		"id": 5100000012,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(12)",
+		"title": "认识你真好-20170712"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170713.mp3",
+		"id": 5100000013,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(13)",
+		"title": "认识你真好-20170713"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170714.mp3",
+		"id": 5100000014,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(14)",
+		"title": "认识你真好-20170714"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170715.mp3",
+		"id": 5100000015,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(15)",
+		"title": "认识你真好-20170715"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170716.mp3",
+		"id": 5100000016,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(16)",
+		"title": "认识你真好-20170716"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170717.mp3",
+		"id": 5100000017,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(17)",
+		"title": "认识你真好-20170717"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170718.mp3",
+		"id": 5100000018,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(18)",
+		"title": "认识你真好-20170718"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170719.mp3",
+		"id": 5100000019,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(19)",
+		"title": "认识你真好-20170719"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170720.mp3",
+		"id": 5100000020,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(20)",
+		"title": "认识你真好-20170720"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170721.mp3",
+		"id": 5100000021,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(21)",
+		"title": "认识你真好-20170721"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170722.mp3",
+		"id": 5100000022,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(22)",
+		"title": "认识你真好-20170722"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170723.mp3",
+		"id": 5100000023,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(23)",
+		"title": "认识你真好-20170723"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170724.mp3",
+		"id": 5100000024,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(24)",
+		"title": "认识你真好-20170724"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170725.mp3",
+		"id": 5100000025,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(25)",
+		"title": "认识你真好-20170725"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170726.mp3",
+		"id": 5100000026,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(26)",
+		"title": "认识你真好-20170726"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170727.mp3",
+		"id": 5100000027,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(27)",
+		"title": "认识你真好-20170727"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170728.mp3",
+		"id": 5100000028,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(28)",
+		"title": "认识你真好-20170728"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170729.mp3",
+		"id": 5100000029,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(29)",
+		"title": "认识你真好-20170729"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170730.mp3",
+		"id": 5100000030,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(30)",
+		"title": "认识你真好-20170730"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170731.mp3",
+		"id": 5100000031,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(31)",
+		"title": "认识你真好-20170731"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170801.mp3",
+		"id": 5100000032,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(32)",
+		"title": "认识你真好-20170801"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170802.mp3",
+		"id": 5100000033,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(33)",
+		"title": "认识你真好-20170802"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170803.mp3",
+		"id": 5100000034,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(34)",
+		"title": "认识你真好-20170803"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170804.mp3",
+		"id": 5100000035,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(35)",
+		"title": "认识你真好-20170804"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170805.mp3",
+		"id": 5100000036,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(36)",
+		"title": "认识你真好-20170805"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170806.mp3",
+		"id": 5100000037,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(37)",
+		"title": "认识你真好-20170806"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170807.mp3",
+		"id": 5100000038,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(38)",
+		"title": "认识你真好-20170807"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170808.mp3",
+		"id": 5100000039,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(39)",
+		"title": "认识你真好-20170808"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170809.mp3",
+		"id": 5100000040,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(40)",
+		"title": "认识你真好-20170809"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170810.mp3",
+		"id": 5100000041,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(41)",
+		"title": "认识你真好-20170810"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170811.mp3",
+		"id": 5100000042,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(42)",
+		"title": "认识你真好-20170811"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170812.mp3",
+		"id": 5100000043,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(43)",
+		"title": "认识你真好-20170812"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170813.mp3",
+		"id": 5100000044,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(44)",
+		"title": "认识你真好-20170813"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170814.mp3",
+		"id": 5100000045,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(45)",
+		"title": "认识你真好-20170814"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170815.mp3",
+		"id": 5100000046,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(46)",
+		"title": "认识你真好-20170815"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170816.mp3",
+		"id": 5100000047,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(47)",
+		"title": "认识你真好-20170816"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170817.mp3",
+		"id": 5100000048,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(48)",
+		"title": "认识你真好-20170817"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170818.mp3",
+		"id": 5100000049,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(49)",
+		"title": "认识你真好-20170818"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170819.mp3",
+		"id": 5100000050,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(50)",
+		"title": "认识你真好-20170819"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170820.mp3",
+		"id": 5100000051,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(51)",
+		"title": "认识你真好-20170820"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170821.mp3",
+		"id": 5100000052,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(52)",
+		"title": "认识你真好-20170821"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170822.mp3",
+		"id": 5100000053,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(53)",
+		"title": "认识你真好-20170822"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170823.mp3",
+		"id": 5100000054,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(54)",
+		"title": "认识你真好-20170823"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170824.mp3",
+		"id": 5100000055,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(55)",
+		"title": "认识你真好-20170824"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170825.mp3",
+		"id": 5100000056,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(56)",
+		"title": "认识你真好-20170825"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170826.mp3",
+		"id": 5100000057,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(57)",
+		"title": "认识你真好-20170826"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170827.mp3",
+		"id": 5100000058,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(58)",
+		"title": "认识你真好-20170827"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170828.mp3",
+		"id": 5100000059,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(59)",
+		"title": "认识你真好-20170828"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170829.mp3",
+		"id": 5100000060,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(60)",
+		"title": "认识你真好-20170829"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170830.mp3",
+		"id": 5100000061,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(61)",
+		"title": "认识你真好-20170830"
+	},
+	{
+		"duration": 3500,
+		"size": "26M",
+		"path": "http://media.febcchinese.org/streaming/vof/vof170831.mp3",
+		"id": 5100000062,
+		"albumId": 5100,
+		"albumName": "《认识你真好》2017 上半年合集",
+		"albumtitle": "《认识你真好》2017 上半年合集(62)",
+		"title": "认识你真好-20170831"
+	}
+]

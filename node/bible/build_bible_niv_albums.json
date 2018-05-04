@@ -1,0 +1,662 @@
+[
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 901,
+		"name": "NIV英文-新国际 创世纪Genesis",
+		"songCount": 50,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 902,
+		"name": "NIV英文-新国际 出埃及记Exodus",
+		"songCount": 40,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 903,
+		"name": "NIV英文-新国际 利未记Leviticus",
+		"songCount": 27,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 904,
+		"name": "NIV英文-新国际 民数记Numbers",
+		"songCount": 36,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 905,
+		"name": "NIV英文-新国际 申命记Deuteronomy",
+		"songCount": 34,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 906,
+		"name": "NIV英文-新国际 约书亚记Joshua",
+		"songCount": 24,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 907,
+		"name": "NIV英文-新国际 士师记Judges",
+		"songCount": 21,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 908,
+		"name": "NIV英文-新国际 路得记Ruth",
+		"songCount": 4,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 909,
+		"name": "NIV英文-新国际 撒母耳记上1Samuel",
+		"songCount": 31,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 910,
+		"name": "NIV英文-新国际 撒母耳记下2Samuel",
+		"songCount": 24,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 911,
+		"name": "NIV英文-新国际 列王记上1Kings",
+		"songCount": 22,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 912,
+		"name": "NIV英文-新国际 列王记下2Kings",
+		"songCount": 25,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 913,
+		"name": "NIV英文-新国际 历代志上1Chronicles",
+		"songCount": 29,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 914,
+		"name": "NIV英文-新国际 历代志下2Chronicles",
+		"songCount": 36,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 915,
+		"name": "NIV英文-新国际 以斯拉记Ezra",
+		"songCount": 10,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 916,
+		"name": "NIV英文-新国际 尼希米记Nehemiah",
+		"songCount": 13,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 917,
+		"name": "NIV英文-新国际 以斯帖记Esther",
+		"songCount": 10,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 918,
+		"name": "NIV英文-新国际 约伯记Job",
+		"songCount": 42,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 919,
+		"name": "NIV英文-新国际 诗篇Psalms",
+		"songCount": 150,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 920,
+		"name": "NIV英文-新国际 箴言Proverbs",
+		"songCount": 31,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 921,
+		"name": "NIV英文-新国际 传道书Ecclesiastes",
+		"songCount": 12,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 922,
+		"name": "NIV英文-新国际 雅歌Songofsongs",
+		"songCount": 8,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 923,
+		"name": "NIV英文-新国际 以赛亚书Isaiah",
+		"songCount": 66,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 924,
+		"name": "NIV英文-新国际 耶利米书Jeremiah",
+		"songCount": 52,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 925,
+		"name": "NIV英文-新国际 耶利米哀歌Lamentations",
+		"songCount": 5,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 926,
+		"name": "NIV英文-新国际 以西结书Ezekie",
+		"songCount": 48,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 927,
+		"name": "NIV英文-新国际 但以理书Daniel",
+		"songCount": 12,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 928,
+		"name": "NIV英文-新国际 何西阿书Hosea",
+		"songCount": 14,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 929,
+		"name": "NIV英文-新国际 约珥书Joel",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 930,
+		"name": "NIV英文-新国际 阿摩司书Amos",
+		"songCount": 9,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 931,
+		"name": "NIV英文-新国际 俄巴底亚书Obadiah",
+		"songCount": 1,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 932,
+		"name": "NIV英文-新国际 约拿书Jonah",
+		"songCount": 4,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 933,
+		"name": "NIV英文-新国际 弥迦书Micah",
+		"songCount": 7,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 934,
+		"name": "NIV英文-新国际 那鸿书Nahum",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 935,
+		"name": "NIV英文-新国际 哈巴谷书Habakkuk",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 936,
+		"name": "NIV英文-新国际 西番亚书Zephaniah",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 937,
+		"name": "NIV英文-新国际 哈该书Haggai",
+		"songCount": 2,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 938,
+		"name": "NIV英文-新国际 撒迦利亚书Zechariah",
+		"songCount": 14,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 939,
+		"name": "NIV英文-新国际 玛拉基书Malachi",
+		"songCount": 4,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 940,
+		"name": "NIV英文-新国际 马太福音Matthew",
+		"songCount": 28,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 941,
+		"name": "NIV英文-新国际 马可福音Mark",
+		"songCount": 16,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 942,
+		"name": "NIV英文-新国际 路加福音Luke",
+		"songCount": 24,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 943,
+		"name": "NIV英文-新国际 约翰福音John",
+		"songCount": 21,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 944,
+		"name": "NIV英文-新国际 使徒行传Acts",
+		"songCount": 28,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 945,
+		"name": "NIV英文-新国际 罗马书Romans",
+		"songCount": 16,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 946,
+		"name": "NIV英文-新国际 哥林多前书1Corinthians",
+		"songCount": 16,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 947,
+		"name": "NIV英文-新国际 哥林多后书2Corinthians",
+		"songCount": 13,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 948,
+		"name": "NIV英文-新国际 加拉太书Galatians",
+		"songCount": 6,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 949,
+		"name": "NIV英文-新国际 以弗所书Ephesians",
+		"songCount": 6,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 950,
+		"name": "NIV英文-新国际 腓立比书Philippians",
+		"songCount": 4,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 951,
+		"name": "NIV英文-新国际 歌罗西书Colossians",
+		"songCount": 4,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 952,
+		"name": "NIV英文-新国际 帖撒罗尼迦前书1Thessalonians",
+		"songCount": 5,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 953,
+		"name": "NIV英文-新国际 帖撒罗尼迦后书2Thessalonians",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 954,
+		"name": "NIV英文-新国际 提摩太前书1Timothy",
+		"songCount": 6,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 955,
+		"name": "NIV英文-新国际 提摩太后书2Timothy",
+		"songCount": 4,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 956,
+		"name": "NIV英文-新国际 提多书Titus",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 957,
+		"name": "NIV英文-新国际 腓立门书Philemon",
+		"songCount": 1,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 958,
+		"name": "NIV英文-新国际 希伯来书Hebrews",
+		"songCount": 13,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 959,
+		"name": "NIV英文-新国际 雅各书James",
+		"songCount": 5,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 960,
+		"name": "NIV英文-新国际 彼得前书1Peter",
+		"songCount": 5,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 961,
+		"name": "NIV英文-新国际 彼得后书2Peter",
+		"songCount": 3,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 962,
+		"name": "NIV英文-新国际 约翰一书1John",
+		"songCount": 5,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 963,
+		"name": "NIV英文-新国际 约翰二书2John",
+		"songCount": 1,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 964,
+		"name": "NIV英文-新国际 约翰三书3John",
+		"songCount": 1,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 965,
+		"name": "NIV英文-新国际 犹大书Jude",
+		"songCount": 1,
+		"albumCategoryId": 504,
+		"shortName": ""
+	},
+	{
+		"stared": false,
+		"duration": 500,
+		"size": "3M",
+		"id": 966,
+		"name": "NIV英文-新国际 启示录Revelation",
+		"songCount": 22,
+		"albumCategoryId": 504,
+		"shortName": ""
+	}
+]

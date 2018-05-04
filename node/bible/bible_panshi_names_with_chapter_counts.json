@@ -1,0 +1,266 @@
+[
+	{
+		"name": "01创世纪Genesis",
+		"chapterCount": 50
+	},
+	{
+		"name": "02出埃及记Exodus",
+		"chapterCount": 40
+	},
+	{
+		"name": "03利未记Leviticus",
+		"chapterCount": 27
+	},
+	{
+		"name": "04民数记Numbers",
+		"chapterCount": 36
+	},
+	{
+		"name": "05申命记Deuteronomy",
+		"chapterCount": 34
+	},
+	{
+		"name": "06约书亚记Joshua",
+		"chapterCount": 24
+	},
+	{
+		"name": "07士师记Judges",
+		"chapterCount": 21
+	},
+	{
+		"name": "08路得记Ruth",
+		"chapterCount": 4
+	},
+	{
+		"name": "09撒母耳记上1Samuel",
+		"chapterCount": 31
+	},
+	{
+		"name": "10撒母耳记下2Samuel",
+		"chapterCount": 24
+	},
+	{
+		"name": "11列王记上1Kings",
+		"chapterCount": 22
+	},
+	{
+		"name": "12列王记下2Kings",
+		"chapterCount": 25
+	},
+	{
+		"name": "13历代志上1Chronicles",
+		"chapterCount": 29
+	},
+	{
+		"name": "14历代志下2Chronicles",
+		"chapterCount": 36
+	},
+	{
+		"name": "15以斯拉记Ezra",
+		"chapterCount": 10
+	},
+	{
+		"name": "16尼希米记Nehemiah",
+		"chapterCount": 13
+	},
+	{
+		"name": "17以斯帖记Esther",
+		"chapterCount": 10
+	},
+	{
+		"name": "18约伯记Job",
+		"chapterCount": 42
+	},
+	{
+		"name": "19诗篇Psalms",
+		"chapterCount": 150
+	},
+	{
+		"name": "20箴言Proverbs",
+		"chapterCount": 31
+	},
+	{
+		"name": "21传道书Ecclesiastes",
+		"chapterCount": 12
+	},
+	{
+		"name": "22雅歌Songofsongs",
+		"chapterCount": 8
+	},
+	{
+		"name": "23以赛亚书Isaiah",
+		"chapterCount": 66
+	},
+	{
+		"name": "24耶利米书Jeremiah",
+		"chapterCount": 52
+	},
+	{
+		"name": "25耶利米哀歌Lamentations",
+		"chapterCount": 5
+	},
+	{
+		"name": "26以西结书Ezekie",
+		"chapterCount": 48
+	},
+	{
+		"name": "27但以理书Daniel",
+		"chapterCount": 12
+	},
+	{
+		"name": "28何西阿书Hosea",
+		"chapterCount": 14
+	},
+	{
+		"name": "29约珥书Joel",
+		"chapterCount": 3
+	},
+	{
+		"name": "30阿摩司书Amos",
+		"chapterCount": 9
+	},
+	{
+		"name": "31俄巴底亚书Obadiah",
+		"chapterCount": 1
+	},
+	{
+		"name": "32约拿书Jonah",
+		"chapterCount": 4
+	},
+	{
+		"name": "33弥迦书Micah",
+		"chapterCount": 7
+	},
+	{
+		"name": "34那鸿书Nahum",
+		"chapterCount": 3
+	},
+	{
+		"name": "35哈巴谷书Habakkuk",
+		"chapterCount": 3
+	},
+	{
+		"name": "36西番亚书Zephaniah",
+		"chapterCount": 3
+	},
+	{
+		"name": "37哈该书Haggai",
+		"chapterCount": 2
+	},
+	{
+		"name": "38撒迦利亚书Zechariah",
+		"chapterCount": 14
+	},
+	{
+		"name": "39玛拉基书Malachi",
+		"chapterCount": 4
+	},
+	{
+		"name": "40马太福音Matthew",
+		"chapterCount": 28
+	},
+	{
+		"name": "41马可福音Mark",
+		"chapterCount": 16
+	},
+	{
+		"name": "42路加福音Luke",
+		"chapterCount": 24
+	},
+	{
+		"name": "43约翰福音John",
+		"chapterCount": 21
+	},
+	{
+		"name": "44使徒行传Acts",
+		"chapterCount": 28
+	},
+	{
+		"name": "45罗马书Romans",
+		"chapterCount": 16
+	},
+	{
+		"name": "46哥林多前书1Corinthians",
+		"chapterCount": 16
+	},
+	{
+		"name": "47哥林多后书2Corinthians",
+		"chapterCount": 13
+	},
+	{
+		"name": "48加拉太书Galatians",
+		"chapterCount": 6
+	},
+	{
+		"name": "49以弗所书Ephesians",
+		"chapterCount": 6
+	},
+	{
+		"name": "50腓立比书Philippians",
+		"chapterCount": 4
+	},
+	{
+		"name": "51歌罗西书Colossians",
+		"chapterCount": 4
+	},
+	{
+		"name": "52帖撒罗尼迦前书1Thessalonians",
+		"chapterCount": 5
+	},
+	{
+		"name": "53帖撒罗尼迦后书2Thessalonians",
+		"chapterCount": 3
+	},
+	{
+		"name": "54提摩太前书1Timothy",
+		"chapterCount": 6
+	},
+	{
+		"name": "55提摩太后书2Timothy",
+		"chapterCount": 4
+	},
+	{
+		"name": "56提多书Titus",
+		"chapterCount": 3
+	},
+	{
+		"name": "57腓立门书Philemon",
+		"chapterCount": 1
+	},
+	{
+		"name": "58希伯来书Hebrews",
+		"chapterCount": 13
+	},
+	{
+		"name": "59雅各书James",
+		"chapterCount": 5
+	},
+	{
+		"name": "60彼得前书1Peter",
+		"chapterCount": 5
+	},
+	{
+		"name": "61彼得后书2Peter",
+		"chapterCount": 3
+	},
+	{
+		"name": "62约翰一书1John",
+		"chapterCount": 5
+	},
+	{
+		"name": "63约翰二书2John",
+		"chapterCount": 1
+	},
+	{
+		"name": "64约翰三书3John",
+		"chapterCount": 1
+	},
+	{
+		"name": "65犹大书Jude",
+		"chapterCount": 1
+	},
+	{
+		"name": "66启示录Revelation",
+		"chapterCount": 22
+	}
+]

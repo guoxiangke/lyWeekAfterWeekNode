@@ -1,0 +1,95 @@
+const fs = require('fs');
+
+var season = "spring";
+
+var titles = [
+    { name: "17年01月13日 拥抱每一天- 智慧语录：梦想如果害怕挑战，那它永远无法实现；拥抱小语：上帝不是故意的；亮丽人生不是梦：设限，带给人自由。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月14日 拥抱每一天- 智慧语录：人话着是为了什么？；拥抱小语：不信耶稣失去什么？；用智慧演绎人生：走出负面情绪。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月15日 拥抱每一天- 智慧语录：圣经这本书；拥抱小语：对他有关系；神的叮咛我最爱：基督徒的身份。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月16日 拥抱每一天- 智慧语录：人生中必须放下的东西；拥抱小语：功亏一篑；寻找生命的真光：荷兰红灯区橱窗女士的眼泪。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月17日 拥抱每一天- 绽放生命的光芒：如何处理压力。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月18日 拥抱每一天- 智慧语录：宽容是一种超凡的气度；拥抱小语：独木桥；诗情细语话人生：什么是传奇？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月19日 拥抱每一天- 智慧语录：该怎么过日子？；说个故事给你听：恩典在等一个人。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMTkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月20日 拥抱每一天- 智慧语录：好好说话，是一种修养；亮丽人生不是梦：设限的阻碍是什么？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月21日 拥抱每一天- 智慧语录：女人懂相守，男人懂感恩，才是一辈子；用智慧演绎人生：走出团队成长之殇。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月22日 拥抱每一天- 智慧语录：六句话，理顺单位里的关系；拥抱小语：两位病人；神的叮咛我最爱：我们是圣洁的国度。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月23日 拥抱每一天- 智慧语录：请问你有几品？；拥抱小语：每秒钟摆一下；寻找生命的真光：变老五十年，你依然爱这个人吗？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月24日 拥抱每一天- 绽放生命的光芒：70后、80后、90后的生命心声。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月25日 拥抱每一天- 智慧语录：真正的朋友；拥抱小语：我的恩典够你用的；诗情细语话人生：一位爸爸写给女儿的遗书。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月26日 拥抱每一天- 智慧语录：送给所有在中小学的孩子；拥抱小语：不要在最好的位置上睡觉；说个故事给你听：灵魂歌手黄绮珊。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月27日 拥抱每一天- 智慧语录：最养人的八个字；亮丽人生不是梦：正视扭曲思想的负面影响。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月28日 拥抱每一天- 春节特辑：亮丽人生不是梦（一）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月29日 拥抱每一天- 春节特辑：亮丽人生不是梦（二）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMjkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月30日 拥抱每一天- 春节特辑：亮丽人生不是梦（三）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMzAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年01月31日 拥抱每一天- 春节特辑：亮丽人生不是梦（四）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAxMzEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月01日 拥抱每一天- 春节特辑：亮丽人生不是梦（五）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月02日 拥抱每一天- 春节特辑：亮丽人生不是梦（六）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月03日 拥抱每一天- 智慧语录：送给已婚的男士们；亮丽人生不是梦：要彼此坦诚。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月04日 拥抱每一天- 智慧语录：好好活着，简简单单过好每一天；拥抱小语：真正的教育就是拼爹；用智慧演绎人生：领导者引起客户兴趣的方法。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月05日 拥抱每一天- 智慧语录：喜欢傻傻的自己；拥抱小语：小敏诗歌--上帝给中国人的一份厚礼；神的叮咛我最爱：圣洁的国民。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月06日 拥抱每一天- 智慧语录：你最喜欢和怎样的人在一起？拥抱小语：脱鞋；寻找生命的真光：有诗和远方，生活就不再苟且吗？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月07日 拥抱每一天- 绽放生命的光芒：成熟之爱。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月08日 拥抱每一天- 智慧语录：人生，唯苦过，方知甜；拥抱小语：歌手陈明恩的心路历程；诗情细语话人生：不占朋友的便宜，是一个人对待朋友的顶级修养。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月09日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（一）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMDkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月10日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（二）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月11日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（三）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月12日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（四）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月13日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（五）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月14日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（六）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月15日 拥抱每一天- 情人节特辑：我要让你知道，我是多么的爱你！（七）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月16日 拥抱每一天- 智慧语录：男人是棵树，女人是个家；拥抱小语：我可以为你们祷告吗？说个故事给你听：神忠心的仆人，主必与你同在。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月17日 拥抱每一天- 智慧语录：懂我的人，一个就够了；拥抱小语：什么是夫妻，这是我见过最幸福的答案；亮丽人生不是梦：问题到底出在哪里？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月18日 拥抱每一天- 智慧语录：当你真正爱一个人的时候；拥抱小语：全球唯一没有贪腐的国家；用智慧演绎人生：跟谁在一起工作到底有多重要。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月19日 拥抱每一天- 智慧语录：有这种感觉才叫情；拥抱小语：如果我们在每件事上看见神；神的叮咛我最爱：属神的子民。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMTkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月20日 拥抱每一天- 智慧语录：男人必须疼女人的三个理由；拥抱小语：候车；寻找生命的真光：这个世界变得越来越好，还是越来越坏？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月21日 拥抱每一天- 绽放生命的光芒：追随耶稣的脚踪。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月22日 拥抱每一天- 智慧语录：远离负能量，做个正面的人；诗情细语话人生：信念永存。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月23日 拥抱每一天- 智慧语录：学会低头的功课；拥抱小语：你不是迷茫，你是自制力不强；说个故事给你听：把自己和歌曲献给上帝的蔡琴。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月24日 拥抱每一天- 智慧语录：谁行谁不行，患难见真情；拥抱小语：选懂规则的人共事；亮丽人生不是梦：看清真我与理想之间的关系。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月25日 拥抱每一天- 智慧语录：面子到底有多重要；拥抱小语：你随随便便穿的样子，就是你的前程；用智慧演绎人生：为什么老二比老大精。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月26日 拥抱每一天- 智慧语录：袋里有钱，手中有书，心中有神；拥抱小语：要看见神，必须花功夫等待；神的叮咛我最爱：宣扬神的美德。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月27日 拥抱每一天- 智慧语录：送给所有奔四奔五的人；拥抱小语：建房；寻找生命的真光：父母们，别放弃你的管教权柄。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年02月28日 拥抱每一天- 绽放生命的光芒：机场情缘。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAyMjgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月01日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（一）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月02日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（二）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月03日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（三）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月04日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（四）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月05日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（五）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月06日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（六）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月07日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（七）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月08日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（八）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月09日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（九）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMDkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月10日 拥抱每一天- 妇女节特辑：女人，妳可以活得漂亮（十）", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月11日 拥抱每一天- 智慧语录--把握今天，活在当下。拥抱小语--尊敬我的在哪里呢？；用智慧演绎人生：参与式管理…", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月12日 拥抱每一天- 智慧语录：时间不等人，珍惜身边人；拥抱小语：宣扬；神的叮咛我最爱：你的人生使命", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月13日 拥抱每一天- 智慧语录：小草，没人心疼，也在成长；拥抱小语：有事就联系，没事各忙各的；寻找生命的真光：自我中心--婚姻中的癌症。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月14日 拥抱每一天- 绽放生命的光芒：在祂没有难成的事。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月15日 拥抱每一天- 智慧语录：做人，我不戴面具；拥抱小语：只要公主不要病；诗情细语话人生：巨婴，中国家庭幸福的最大杀手。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月16日 拥抱每一天- 智慧语录：时间对你有何价值？；拥抱小语：使你疲惫的那粒沙子是什么？说个故事给你听：爱是什么？--寇乃馨的生命故事。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月17日 拥抱每一天- 智慧语录：你会选择活出一个怎样的人生？；亮丽人生不是梦：理想与真实的自我之间的关系。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月18日 拥抱每一天- 智慧语录：做人不要太较真；拥抱小语：有几个孩子能真正看到诗和远方；用智慧演绎人生：别人不把你当回事，都是从这件事开始。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月19日 拥抱每一天- 智慧语录：记住别人的好；拥抱小语：当我老了；神的叮咛我最爱：我们的使命。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMTkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月20日 拥抱每一天- 智慧语录：用爱经营，一生无悔；拥抱小语：输血舍命；寻找生命的真光：在上帝的回收中心29年。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月21日 拥抱每一天- 绽放生命的光芒：旧事已过，都变成新的了。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月22日 拥抱每一天- 智慧语录：想开、看开、放开；诗情细语话人生：莎翁名言：活着还是死去。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjIubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月23日 拥抱每一天- 智慧语录：贤慧妻子哪里找？；拥抱小语：君子和而不同；说个故事给你听：歌手亚萨的心路历程。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjMubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月24日 拥抱每一天- 智慧语录：人到中年应有的修养；拥抱小语：心灵的品级；亮丽人生不是梦：解决好与坏的冲突。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjQubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月25日 拥抱每一天- 智慧语录：毫无意义的三件事，你还在做吗？；拥抱小语：一件往事；用智慧演绎人生：信仰需要经历绝望。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjUubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月26日 拥抱每一天- 智慧语录：让幸福相伴相随；拥抱小语：你就是那支铅笔；神的叮咛我最爱：怎样以好行为来宣扬基督。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjYubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月27日 拥抱每一天- 智慧语录：给，人生的崇高境界；拥抱小语：高情商的女人怎样和男人相处；寻找生命的真光：他们为什么将魔兽当成信仰？", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjcubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月28日 拥抱每一天- 绽放生命的光芒：做个孩子心目中的好妈妈！", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjgubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月29日 拥抱每一天- 智慧语录：免费又珍贵的东西，你都拥有了吗？；诗情细语话人生：预订60年的鲜花。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMjkubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月30日 拥抱每一天- 智慧语录：你的底牌都握紧了吗？；拥抱小语：从反面看；说个故事给你听：她用生命爱中国。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMzAubXAz", counterpart: "", artist: "", image: "true", imgurl: "" },
+    { name: "17年03月31日 拥抱每一天- 智慧语录：什么是夫妻？什么是家？；拥抱小语：用鸡蛋杀死婆婆；亮丽人生不是梦：论攻击跟论断。", formats: ["mp3"], mp3: "aHR0cDovL21lZGlhLmZlYmNjaGluZXNlLm9yZy9zdHJlYW1pbmcvZWUvZWUxNzAzMzEubXAz", counterpart: "", artist: "", image: "true", imgurl: "" }
+];
+
+var songs = JSON.parse(fs.readFileSync('ee2017_' + season + '_songs.json', 'utf8'));
+songs.forEach(function(song, indexId) {
+
+
+    song.title = titles[indexId].name;
+
+
+});
+
+fs.writeFile("./ee2017_" + season + "_songs_with_title.json", JSON.stringify(songs, null, '\t'));

@@ -1,0 +1,1850 @@
+[ {
+    "stared": false,
+    "duration": 1760,
+    "size": "4.8M",
+    "id": 401,
+    "name": "《真道分解》创世记",
+    "description": "",
+    "songCount": 84,
+    "artistId": 36,
+    "artistName": "真道分解",
+    "albumCategoryId": 401,
+    "shortName": "zdfj_chuangshiji",
+    "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot01_genesis.pdf"
+}
+
+
+,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "4.8M",
+        "id": 402,
+        "name": "《真道分解》出埃及记",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 401,
+        "shortName": "zdfj_chueijiji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot02_exodus.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "4.8M",
+        "id": 403,
+        "name": "《真道分解》利未记",
+        "description": "",
+        "songCount": 18,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 401,
+        "shortName": "zdfj_liweiji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot03_leviticus.pdf"
+
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "4.8M",
+        "id": 404,
+        "name": "《真道分解》民数记",
+        "description": "",
+        "songCount": 35,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 401,
+        "shortName": "zdfj_mingshuji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot03_numbers2010.pdf",
+        "pdfTitle" : "系列一：讲义（讲员：张道明）",
+        "pdf2": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot04_numbers.pdf",
+        "pdfTitle2" : "系列二：讲义（讲员：李重恩）"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "4.8M",
+        "id": 405,
+        "name": "《真道分解》申命记",
+        "description": "",
+        "songCount": 35,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 401,
+        "shortName": "zdfj_shengmingji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot05_deuteronomy.pdf"
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 890,
+        "size": "2.5M",
+        "id": 406,
+        "name": "《真道分解》约书亚记",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_yueshuyaji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot06_joshua.pdf"
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 890,
+        "size": "2.5M",
+        "id": 407,
+        "name": "《真道分解》士师记",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_shishiji",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot07_judges.pdf"
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 920,
+        "size": "3M",
+        "id": 408,
+        "name": "《真道分解》路得记",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_ludeji",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot08_ruth.pdf"
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "5M",
+        "id": 409,
+        "name": "《真道分解》撒母耳记上",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_shamoerjishang",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot09_1samuel.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "5M",
+        "id": 410,
+        "name": "《真道分解》撒母耳记下",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_shamoerjixia",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot10_2samuel.pdf"
+
+    }
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.6M",
+        "id": 411,
+        "name": "《真道分解》列王纪上下",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_liewangji",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot11_12_12kings.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.8M",
+        "id": 412,
+        "name": "《真道分解》历代志上",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_lidaijishang",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot13_1chronicles.pdf"
+
+
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.8M",
+        "id": 413,
+        "name": "《真道分解》历代志下",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_lidaijixia",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot14_2chronicles.pdf"
+
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1300,
+        "size": "4M",
+        "id": 414,
+        "name": "《真道分解》以斯拉记",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_yisilaji",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot15_ezra.pdf"
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.6M",
+        "id": 415,
+        "name": "《真道分解》尼希米记",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_niximiji",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot16_nehemiah.pdf"
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.6M",
+        "id": 416,
+        "name": "《真道分解》以斯帖记",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 402,
+        "shortName": "zdfj_niximiji",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot17_esther.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 417,
+        "name": "《真道分解》约伯记",
+        "description": "",
+        "songCount": 30,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 403,
+        "shortName": "zdfj_yueboji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot18_job.pdf"
+
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 418,
+        "name": "《真道分解》诗篇",
+        "description": "",
+        "songCount": 35,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 403,
+        "shortName": "zdfj_shipian",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot19_psalms.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "2.5M",
+        "id": 419,
+        "name": "《真道分解》箴言",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 403,
+        "shortName": "zdfj_zhenyan",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot20_proverbs.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 420,
+        "name": "《真道分解》传道书",
+        "description": "",
+        "songCount": 31,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 403,
+        "shortName": "zdfj_chuandaoshu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot21_ecclesiastes.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 421,
+        "name": "《真道分解》雅歌",
+        "description": "",
+        "songCount": 7,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 403,
+        "shortName": "zdfj_yage",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot22_songofsolomon.pdf"
+
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 422,
+        "name": "《真道分解》以赛亚书",
+        "description": "",
+        "songCount": 32,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 404,
+        "shortName": "zdfj_yisaiyashu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot23_isaiah.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 423,
+        "name": "《真道分解》耶利米书",
+        "description": "",
+        "songCount": 39,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 404,
+        "shortName": "zdfj_yelimishu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot24_jeremiah.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 424,
+        "name": "《真道分解》耶利米哀歌",
+        "description": "",
+        "songCount": 6,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 404,
+        "shortName": "zdfj_yelimieige",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot25_lamentations.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 425,
+        "name": "《真道分解》以西结书",
+        "description": "",
+        "songCount": 49,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 404,
+        "shortName": "zdfj_yixijieshu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot26_ezekiel.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3.2M",
+        "id": 426,
+        "name": "《真道分解》但以理书",
+        "description": "",
+        "songCount": 26,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 404,
+        "shortName": "zdfj_danyilishu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot27_daniel.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 800,
+        "size": "2.3M",
+        "id": 427,
+        "name": "《真道分解》何西阿书",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_hexiashu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot28_hosea.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3M",
+        "id": 428,
+        "name": "《真道分解》约珥书",
+        "description": "",
+        "songCount": 6,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_yueershu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot29_joel.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3M",
+        "id": 429,
+        "name": "《真道分解》阿摩司书",
+        "description": "",
+        "songCount": 22,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_amoxishu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot30_amos.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.2M",
+        "id": 430,
+        "name": "《真道分解》俄巴底亚书",
+        "description": "",
+        "songCount": 2,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_ebadiyashu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot31_obadiah.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3M",
+        "id": 431,
+        "name": "《真道分解》约拿书",
+        "description": "",
+        "songCount": 5,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_yuenashu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot32_jonah.pdf"
+
+
+    }
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3M",
+        "id": 432,
+        "name": "《真道分解》弥迦书",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_mijiashu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot33_micah.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3M",
+        "id": 433,
+        "name": "《真道分解》那鸿书",
+        "description": "",
+        "songCount": 4,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_nahongshu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot34_nahum.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1100,
+        "size": "3M",
+        "id": 434,
+        "name": "《真道分解》哈巴谷书",
+        "description": "",
+        "songCount": 4,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_habagushu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot35_habakkuk.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 435,
+        "name": "《真道分解》西番雅书",
+        "description": "",
+        "songCount": 4,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_xifanyashu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot36_zephaniah.pdf"
+
+
+    }
+,
+    {
+        "stared": false,
+        "duration": 1600,
+        "size": "4.7M",
+        "id": 436,
+        "name": "《真道分解》哈该书",
+        "description": "",
+        "songCount": 5,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_hagaishu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot37_haggai.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 437,
+        "name": "《真道分解》撒迦利亚书",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_sajialiyashu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot38_zechariah.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 438,
+        "name": "《真道分解》玛拉基书",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 405,
+        "shortName": "zdfj_malajishu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ot39_malachi.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.5M",
+        "id": 439,
+        "name": "《真道分解》马太福音",
+        "description": "",
+        "songCount": 30,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 406,
+        "shortName": "zdfj_mataifuyin",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ntsp_matthew_messiah.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "4.7M",
+        "id": 440,
+        "name": "《真道分解》马可福音",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 406,
+        "shortName": "zdfj_makefuyin",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt02_mark.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 900,
+        "size": "2.5M",
+        "id": 441,
+        "name": "《真道分解》路加福音",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 406,
+        "shortName": "zdfj_lujiafuyin",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt03_luke.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 442,
+        "name": "《真道分解》约翰福音",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 406,
+        "shortName": "zdfj_yuehanfuyin"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1400,
+        "size": "4M",
+        "id": 443,
+        "name": "《真道分解》使徒行传",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 407,
+        "shortName": "zdfj_shituxingzhuan",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt05_acts2005.pdf",
+        "pdfTitle" : "系列一：讲义（讲员：叶明道）",
+        "pdf2": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt05_acts.pdf",
+        "pdfTitle2" : "系列二：讲义（讲员：陈海）"
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1400,
+        "size": "4M",
+        "id": 444,
+        "name": "《真道分解》罗马书",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_luomashu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt06_romans.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1600,
+        "size": "4.7M",
+        "id": 445,
+        "name": "《真道分解》哥林多前书",
+        "description": "",
+        "songCount": 32,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_gelinduoqianshu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt07_1corinthians.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 446,
+        "name": "《真道分解》哥林多后书",
+        "description": "",
+        "songCount": 15,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_gelinduohoushu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt08_2corinthians.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 447,
+        "name": "《真道分解》加拉太书",
+        "description": "",
+        "songCount": 30,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_jialataishu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt09_galatians.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.7M",
+        "id": 448,
+        "name": "《真道分解》以弗所书",
+        "description": "",
+        "songCount": 13,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_yifosuoshu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt10_ephesians.pdf"
+
+
+    }
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.7M",
+        "id": 449,
+        "name": "《真道分解》腓立比书",
+        "description": "",
+        "songCount": 11,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_feilibishu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt11_philippians.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.7M",
+        "id": 450,
+        "name": "《真道分解》歌罗西书",
+        "description": "",
+        "songCount": 23,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_geluoxishu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt12_colossians.pdf",
+        "pdf2": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt12_colossians_2015.pdf",
+
+        "pdfTitle" : "系列一：讲义（讲员：陈湘儿）",
+        "pdfTitle2" : "系列二：讲义（讲员：周广亮）"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 451,
+        "name": "《真道分解》帖撒罗尼迦前书",
+        "description": "",
+        "songCount": 13,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_tiesaluonijiaqianshu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt13_1thessalonians.pdf"
+
+
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 452,
+        "name": "《真道分解》帖撒罗尼迦后书",
+        "description": "",
+        "songCount": 5,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_tiesaluonijiahoushu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt14_2thessalonians.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 453,
+        "name": "《真道分解》提摩太前书",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_timotaiqianshu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt15_1timothy.pdf"
+
+
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 454,
+        "name": "《真道分解》提摩太后书",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_timotaihoushu"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 455,
+        "name": "《真道分解》提多书",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_tiduoshu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt17_titus.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1300,
+        "size": "4M",
+        "id": 456,
+        "name": "《真道分解》腓利门书",
+        "description": "",
+        "songCount": 4,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 408,
+        "shortName": "zdfj_feilimenshu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt18_philemon.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1600,
+        "size": "4.8M",
+        "id": 457,
+        "name": "《真道分解》希伯来书",
+        "description": "",
+        "songCount": 4,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 409,
+        "shortName": "zdfj_xibolaishu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt19_hebrews.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 458,
+        "name": "《真道分解》雅各书",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 409,
+        "shortName": "zdfj_yageshu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt20_james.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 459,
+        "name": "《真道分解》彼得前后书",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 409,
+        "shortName": "zdfj_bideqianhoushu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt21_22_12peter.pdf"
+
+
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 460,
+        "name": "《真道分解》约壹贰叁",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 409,
+        "shortName": "zdfj_yueyiersan",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt23_24_25_123john.pdf",
+        "pdf2": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt23_24_25_123john2006.pdf",
+
+
+        "pdfTitle" : "系列一：讲义（讲员：李重恩）",
+        "pdfTitle2" : "系列二：讲义（讲员：张得仁）"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 461,
+        "name": "《真道分解》犹大书",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 409,
+        "shortName": "zdfj_youdashu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt26_jude.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "4M",
+        "id": 463,
+        "name": "《真道分解》启示录",
+        "description": "",
+        "songCount": 37,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 411,
+        "shortName": "zdfj_qishilu",
+
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_nt27_revelation.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "4M",
+        "id": 464,
+        "name": "《真道分解》旧约概论",
+        "description": "",
+        "songCount": 39,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_qiuyuegailun",
+        "pdf" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_intro_pentateuch.pdf",
+        "pdfTitle" : "讲义：摩西五经",
+        "pdf2" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_intro_history1.pdf",
+        "pdfTitle2" : "讲义：历史书（1）",
+        "pdf3" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_intro_history2.pdf",
+        "pdfTitle3" : "讲义：历史书（2）",
+        "pdf4" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_intro_poeticbooks.pdf",
+        "pdfTitle4" : "讲义：诗歌智慧书",
+        "pdf5" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_intro_majorprophets.pdf",
+        "pdfTitle5" : "讲义：大先知书",
+        "pdf6" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_intro_minorprophets.pdf",
+        "pdfTitle6" : "讲义：小先知书"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 600,
+        "size": "2M",
+        "id": 465,
+        "name": "《真道分解》旧约疑难解答",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_qiuyueyinanjieda",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_troubleshooting_ot.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "4M",
+        "id": 466,
+        "name": "《真道分解》旧约中的神迹",
+        "description": "",
+        "songCount": 8,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_qiuyuezhongdeshenji",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_miracles.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "5M",
+        "id": 467,
+        "name": "《真道分解》旧约中的比喻",
+        "description": "",
+        "songCount": 17,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_qiuyuezhongdebiyu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_parables.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "5M",
+        "id": 468,
+        "name": "《真道分解》旧约中的预言",
+        "description": "",
+        "songCount": 18,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_qiuyuezhongdeyuyan",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_prophecy.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 469,
+        "name": "《真道分解》献上生命祭──利未记研读",
+        "description": "",
+        "songCount": 9,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_xssmjlwjyd",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_otsp_leviticus_life.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1400,
+        "size": "4M",
+        "id": 470,
+        "name": "《真道分解》精读诗篇23篇：丰盛生命，精彩人生",
+        "description": "",
+        "songCount": 6,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_jdsp23"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 600,
+        "size": "4.5M",
+        "id": 471,
+        "name": "《真道分解》先知书简介",
+        "description": "",
+        "songCount": 20,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_xianzhishujianjie",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_aided_prophets.pdf"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 472,
+        "name": "《真道分解》新约概论",
+        "description": "",
+        "songCount": 27,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_xinyuegailun",
+        "pdf" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ntsp_intro_fourgospels_acts.pdf",
+        "pdfTitle" : "讲义：四福音书及使徒行传",
+        "pdf2" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ntsp_intro_generalepistles_revelation.pdf",
+        "pdfTitle2" : "讲义：普通书信及启示录",
+        "pdf3" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ntsp_intro_epistlesofpaul.pdf",
+        "pdfTitle3" : "讲义：保罗书信"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 1400,
+        "size": "5M",
+        "id": 473,
+        "name": "《真道分解》新约中的神迹",
+        "description": "",
+        "songCount": 17,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_xinyuezhongdeshenji"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "5.5M",
+        "id": 474,
+        "name": "《真道分解》新约中的比喻",
+        "description": "",
+        "songCount": 18,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_xinyuezhongdebiyu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ntsp_parables.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 420,
+        "size": "1M",
+        "id": 475,
+        "name": "《真道分解》耶稣基督讲的比喻（节录）",
+        "description": "",
+        "songCount": 16,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_yesujidudebiyu"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1400,
+        "size": "4M",
+        "id": 476,
+        "name": "《真道分解》耶稣生平",
+        "description": "",
+        "songCount": 13,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_yesushengping",
+        "pdf" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_aided_lifeofchrist.pdf",
+        "pdfTitle" : "讲义（讲员：李重恩）",
+        "pdf2" : "http://audio.lyzhendao.net/biblexpo/notes/be_notes_lifeofjesus_fourgospels_table.pdf",
+        "pdfTitle2" : "耶稣生平四福音书参照表"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1200,
+        "size": "3.5M",
+        "id": 477,
+        "name": "《真道分解》超乎万名之上的名：认识耶稣",
+        "description": "",
+        "songCount": 15,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_renshiyesu"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 360,
+        "size": "1M",
+        "id": 478,
+        "name": "《真道分解》福音书疑难解答",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_fuyinshuyinanjieda",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_ntsp_troubleshooting_gospel.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 360,
+        "size": "1M",
+        "id": 479,
+        "name": "《真道分解》保罗书信疑难解答",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_baoluoshuxinyinanjieda"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 360,
+        "size": "1M",
+        "id": 480,
+        "name": "《真道分解》普通书信疑难解答",
+        "description": "",
+        "songCount": 23,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_putongshuxinyinanjieda"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1600,
+        "size": "4.7M",
+        "id": 481,
+        "name": "《真道分解》马太福音精华点滴",
+        "description": "",
+        "songCount": 6,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_mataifuyinjinghua"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 482,
+        "name": "《真道分解》归纳式查经法",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_guinashichajingfa",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_aided_inductive.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 780,
+        "size": "2.5M",
+        "id": 483,
+        "name": "《真道分解》查经法（1）归纳式查经法",
+        "description": "",
+        "songCount": 29,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_chajingfa_guinashichajingfa",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_biblestudy01_inductive.pdf"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 780,
+        "size": "2.5M",
+        "id": 484,
+        "name": "《真道分解》查经法（2）释经原则",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_chajingfa_shijingyuanze",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_biblestudy02_exegesis.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 600,
+        "size": "2M",
+        "id": 485,
+        "name": "《真道分解》查经法（3）新约文体分析",
+        "description": "",
+        "songCount": 21,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_chajingfa_xinyuewenbenfenxi",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_biblestudy03_ntstyle.pdf"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 780,
+        "size": "2.5M",
+        "id": 486,
+        "name": "《真道分解》查经法（4）旧约文体分析",
+        "description": "",
+        "songCount": 28,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_chajingfa_jiuyuewenbenfenxi",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_biblestudy04_otstyle.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 600,
+        "size": "2M",
+        "id": 487,
+        "name": "《真道分解》查经法（5）专题查经",
+        "description": "",
+        "songCount": 22,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_chajingfa_zhuantichajing",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_biblestudy05_specialtopic.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 488,
+        "name": "《真道分解》释经指引十则",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_shijingzhiyingshize",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_exegesisguidelines.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1800,
+        "size": "5.3M",
+        "id": 489,
+        "name": "《真道分解》读经十讲",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_dujingshijiang",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_biblereading.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 490,
+        "name": "《真道分解》圣经中的夫妇",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_shengjingzhongdefufu",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_bible_couples.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 491,
+        "name": "《真道分解》圣经中生命的师傅",
+        "description": "",
+        "songCount": 20,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_shengjingzhongsmdsf",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_bible_mentors.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 750,
+        "size": "2.5M",
+        "id": 492,
+        "name": "《真道分解》属灵精兵",
+        "description": "",
+        "songCount": 23,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_shulingjingbing",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_aided_spiritualelite.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 493,
+        "name": "《真道分解》查经特辑：信徒生活系列之乘风破浪",
+        "description": "",
+        "songCount": 13,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_xtshxlzcfpl",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_sp_lifeofchristian.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 494,
+        "name": "《真道分解》姊妹成长特辑：美丽人生",
+        "description": "",
+        "songCount": 10,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_zmczmlrs",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_sp_beautifullife.pdf"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 495,
+        "name": "《真道分解》从神的国看主爱中华",
+        "description": "",
+        "songCount": 12,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_csdgkzazh"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 496,
+        "name": "《真道分解》受难复活节特辑：从十架到宝座",
+        "description": "",
+        "songCount": 7,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_snfhjtjcsjdbx"
+    }
+
+,
+    {
+        "stared": false,
+        "duration": 1700,
+        "size": "5M",
+        "id": 497,
+        "name": "《真道分解》2010年复活节特辑：与主同死同埋葬同复活",
+        "description": "",
+        "songCount": 8,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_2010fhjtj",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_sp_easterspecial2010_withjesus.pdf"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 1500,
+        "size": "4.5M",
+        "id": 498,
+        "name": "《真道分解》2011年复活节特辑：在基督里作神的子民",
+        "description": "",
+        "songCount": 8,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 412,
+        "shortName": "zdfj_2011fhjtj",
+        "pdf": "http://audio.lyzhendao.net/biblexpo/notes/be_notes_sp_easterspecial2011_hispeople.pdf"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 240,
+        "size": "1M",
+        "id": 499,
+        "name": "《真道分解》圣经词汇",
+        "description": "",
+        "songCount": 42,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 413,
+        "shortName": "zdfj_shengjingcihui"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 240,
+        "size": "1M",
+        "id": 500,
+        "name": "《真道分解》圣经中提到的地方",
+        "description": "",
+        "songCount": 35,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 413,
+        "shortName": "zdfj_shengjingzhongtidaodedifang"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 240,
+        "size": "1M",
+        "id": 501,
+        "name": "《真道分解》圣地风俗游踪",
+        "description": "",
+        "songCount": 33,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 413,
+        "shortName": "zdfj_sdfxyz"
+    }
+
+
+
+,
+    {
+        "stared": false,
+        "duration": 420,
+        "size": "2M",
+        "id": 502,
+        "name": "《真道分解》谈谈圣经",
+        "description": "",
+        "songCount": 33,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 413,
+        "shortName": "zdfj_tantanshengjing"
+    }
+
+
+,
+    {
+        "stared": false,
+        "duration": 300,
+        "size": "1M",
+        "id": 503,
+        "name": "《真道分解》圣经信箱",
+        "description": "",
+        "songCount": 347,
+        "artistId": 36,
+        "artistName": "真道分解",
+        "albumCategoryId": 413,
+        "shortName": "zdfj_shengjingxinxiang"
+    }
+]
